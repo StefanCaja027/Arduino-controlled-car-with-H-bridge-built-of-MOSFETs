@@ -12,12 +12,12 @@ Kreatori projekta:
         G-mail: cajkicajkic@gmail.com
 
         <-Luka Dimitrijević->
-        Git hub:
-        G-mail:
+        Git hub:luka.dimitrijevic@prvabeogim.edu.rs
+        G-mail:LukaDimitrijevic
 
         <-Lazar Avramović->
-        Git hub:
-        G-mail:
+        Git hub:LazarAvramovicDSP
+        G-mail:cicangaming@gmail.com
 
 ```
 ## Tok rada i poenta projekta 
@@ -59,7 +59,7 @@ Project creators:
 
         <-Lazar Avramović->
         Github acc: LazarAvramovicDSP
-        G-mail: lazaravramovic12321@gmail.com
+        G-mail: cicangaming@gmail.com
 
 ```
 ## Work flow and project point
